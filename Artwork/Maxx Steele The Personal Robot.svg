@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg833"
+   width="499"
+   height="197"
+   viewBox="0 0 499 197"
+   sodipodi:docname="Maxx Steele The Personal Robot.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata839">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs837">
+    <linearGradient
+       id="linearGradient1130">
+      <stop
+         style="stop-color:#bf37cf;stop-opacity:0.98000002;"
+         offset="0"
+         id="stop1144" />
+      <stop
+         style="stop-color:#0000ff;stop-opacity:0.96862745;"
+         offset="0.18189558"
+         id="stop1142" />
+      <stop
+         style="stop-color:#00ff00;stop-opacity:0.95294118;"
+         offset="0.30735356"
+         id="stop1146" />
+      <stop
+         style="stop-color:#ffdf3f;stop-opacity:0.9372549;"
+         offset="0.51445585"
+         id="stop1140" />
+      <stop
+         style="stop-color:#ffbf7f;stop-opacity:0.8745098;"
+         offset="0.67038137"
+         id="stop1138" />
+      <stop
+         style="stop-color:#ff7f00;stop-opacity:1;"
+         offset="0.77987957"
+         id="stop1136" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="1"
+         id="stop1134" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1130"
+       id="linearGradient1166"
+       x1="246.84036"
+       y1="49.715343"
+       x2="246.84036"
+       y2="117.2405"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="3"
+     gridtolerance="1"
+     guidetolerance="3"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1902"
+     inkscape:window-height="1033"
+     id="namedview835"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="2.6412826"
+     inkscape:cx="308.37039"
+     inkscape:cy="68.333762"
+     inkscape:window-x="16"
+     inkscape:window-y="9"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g841">
+    <sodipodi:guide
+       position="377.37239,79.551021"
+       orientation="0,-1"
+       id="guide871" />
+    <sodipodi:guide
+       position="416.33246,147.51786"
+       orientation="0,-1"
+       id="guide927" />
+    <sodipodi:guide
+       position="8.2170659,286.64072"
+       orientation="0.70710678,-0.70710678"
+       id="guide955" />
+    <sodipodi:guide
+       position="136.21807,139.8396"
+       orientation="0,-1"
+       id="guide966" />
+    <sodipodi:guide
+       position="133.08988,132.16134"
+       orientation="0,-1"
+       id="guide968" />
+    <sodipodi:guide
+       position="190.81904,124.1987"
+       orientation="0,-1"
+       id="guide970" />
+    <sodipodi:guide
+       position="135.08054,117.08919"
+       orientation="0,-1"
+       id="guide972" />
+    <sodipodi:guide
+       position="71.663784,109.69531"
+       orientation="0,-1"
+       id="guide974" />
+    <sodipodi:guide
+       position="71.663784,102.01705"
+       orientation="0,-1"
+       id="guide976" />
+    <sodipodi:guide
+       position="73.085684,94.623166"
+       orientation="0,-1"
+       id="guide978" />
+    <sodipodi:guide
+       position="77.351386,87.229283"
+       orientation="0,-1"
+       id="guide980" />
+    <sodipodi:guide
+       position="59.062215,223.12367"
+       orientation="1,0"
+       id="guide982" />
+    <sodipodi:guide
+       position="434.25873,186.77769"
+       orientation="1,0"
+       id="guide984" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g841">
+    <g
+       id="g964"
+       style="opacity:0.999;stroke:url(#linearGradient1166);stroke-opacity:1">
+      <path
+         style="fill:#000000;stroke:url(#linearGradient1166);stroke-width:4.40315;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 64.616018,115.03892 60.880992,-63.122 24.27769,0 V 74.3271 l 23.15719,-22.41018 h 25.3982 l 0,63.122 h -25.3982 V 74.3271 l -37.7238,40.71182 -9.71108,0 0,-40.71182 -38.097309,40.71182 z"
+         id="path863"
+         sodipodi:nodetypes="cccccccccccccc" />
+      <path
+         style="fill:#000000;stroke:url(#linearGradient1166);stroke-width:4.40315;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 206.54716,51.91692 v 63.122 h 23.53068 l 31.09413,-21.663167 23.81081,21.663167 h 23.9042 l -33.66196,-31.514312 6.76974,-4.715478 38.47081,36.22979 h 27.63922 L 331.5306,99.211731 362.67141,79.276009 401.14222,115.03892 h 27.63921 L 380.03929,68.164297 403.00973,51.91692 h -27.26572 l -6.34955,4.85554 -6.72305,-4.85554 h -29.50674 l 17.18114,15.96725 -30.90737,19.889033 -21.1963,-20.542663 22.22343,-15.31362 h -26.51871 l -7.09656,4.482037 -4.48204,-4.482037 h -29.13323 l 16.43413,15.31362 -7.09656,4.48203 -21.28967,-19.79565 z"
+         id="path865"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccc" />
+      <path
+         style="fill:#000000;stroke:url(#linearGradient1166);stroke-width:4.40314961;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 230.07784,64.61602 v 28.38623 l 18.30165,-11.9521 z"
+         id="path867"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.7467px;line-height:1.25;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT Bold';letter-spacing:0px;word-spacing:0px;fill:#7695e8;fill-opacity:1;stroke:none;stroke-width:0.951501;"
+       x="112.57802"
+       y="48.884422"
+       id="text1758"
+       transform="scale(1.0846447,0.92196092)"><tspan
+         sodipodi:role="line"
+         id="tspan1756"
+         x="112.57802"
+         y="48.884422"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT Bold';stroke-width:0.951501;stroke:none;">ELECTRONIC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.3874px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.709685"
+       x="319.98624"
+       y="140.13365"
+       id="text1762"
+       transform="scale(0.99650529,1.003507)"><tspan
+         sodipodi:role="line"
+         id="tspan1760"
+         x="319.98624"
+         y="140.13365"
+         style="stroke-width:0.709685">STEELE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:30.8216px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:0.770541"
+       x="78.23027"
+       y="168.01892"
+       id="text1766"
+       transform="scale(0.92025211,1.0866587)"><tspan
+         sodipodi:role="line"
+         id="tspan1764"
+         x="78.23027"
+         y="168.01892"
+         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+         style="stroke-width:0.770541">THE PERSONAL ROBOT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.69479px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ff0000;stroke-width:0.19237"
+       x="411.07126"
+       y="132.0341"
+       id="text1770"
+       transform="scale(1.0567861,0.94626531)"><tspan
+         sodipodi:role="line"
+         id="tspan1768"
+         x="411.07126"
+         y="132.0341"
+         style="stroke-width:0.19237">TM</tspan></text>
+  </g>
+</svg>
